@@ -4,7 +4,7 @@ A collection of coding problems you'll actually solve in day-to-day software eng
 
 ## About
 
-This repository contains practical coding challenges based on real production scenarios. These aren't abstract academic puzzles that are focused to fail people in interviews.
+This repository contains practical coding challenges based on real production scenarios. These aren't abstract academic puzzles but rather issues/types that you are more likely to encounter in your day-to-day SWE job.
 
 ## Problem Categories
 
